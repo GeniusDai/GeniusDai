@@ -1,4 +1,4 @@
-#### Welcome to my profile!
+#### Hi You Guy. Welcome to look me up!
 
 - 😄 I am GeniusDai
 
