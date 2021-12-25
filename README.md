@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Welcome to my profile!
+
+- 😄 I am GeniusDai
+
+- 🔭 Quite familiar with Linux and C/C++
+
+- 🤔 Obsessed with creating wheels
+
+- 📫 Email: 1972789815@qq.com
 
 <!--
 **GeniusDai/GeniusDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
