@@ -4,7 +4,7 @@
 
 - 🔭 Quite familiar with Linux and C/C++
 
-- 🤔 Obsessed with creating wheels
+- 🤔 Obsessed with creating WHEELs
 
 - 📫 Email: 1972789815@qq.com
 
