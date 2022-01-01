@@ -1,6 +1,6 @@
-#### Hi You Guy. Welcome to look me up!
+#### Welcome to look me up!
 
-- 😄 I am GeniusDai
+- 😄 I am Dai...
 
 - 🔭 Quite familiar with Linux and C/C++
 
