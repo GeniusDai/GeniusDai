@@ -1,8 +1,8 @@
 #### Welcome to look me up!
 
-- 😄 I am Dai...
+- 🌱 I am Dai
 
-- 🔭 Quite familiar with Linux and C/C++
+- 🔭 Quite familiar with Linux C/C++
 
 - 🤔 Obsessed with creating WHEELs
 
