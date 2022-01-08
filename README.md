@@ -2,9 +2,9 @@
 
 - 🌱 I am Dai
 
-- 🔭 Quite familiar with Linux C/C++
+- 🔭 Quite familiar with C/C++
 
-- 🤔 Obsessed with creating WHEELs
+- 🤔 Obsessed with infra
 
 - 📫 Email: 1972789815@qq.com
 
