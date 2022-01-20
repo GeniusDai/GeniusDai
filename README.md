@@ -1,12 +1,8 @@
-#### Hi!
+I'm Dai, C/C++ Developer
 
-- I'm Dai
+Inventing wheels in spare time
 
-- C/C++ Developer
-
-- Inventing wheels in spare time
-
-- Email: 1972789815@qq.com
+Email: 1972789815@qq.com
 
 <!--
 **GeniusDai/GeniusDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
