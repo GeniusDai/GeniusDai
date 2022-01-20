@@ -1,12 +1,12 @@
-#### Welcome to look me up!
+#### Hi!
 
-- 🌱 I am Dai
+- I'm Dai
 
-- 🔭 Quite familiar with C/C++
+- C/C++ Developer
 
-- 🤔 Obsessed with infra
+- Inventing wheels in spare time
 
-- 📫 Email: 1972789815@qq.com
+- Email: 1972789815@qq.com
 
 <!--
 **GeniusDai/GeniusDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
